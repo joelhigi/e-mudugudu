@@ -1,0 +1,9 @@
+- index.php
+- andi_makuru_inzu
+- guhindura_inzu
+- guhindura_umuryango
+- andi_makuru_umuryango
+- gusiba
+- kwinjiza_inshingano
+- kwinjiza_ubwisungane
+- umuyobozi_isibo
